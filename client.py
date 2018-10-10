@@ -19,7 +19,7 @@ class Client:
             #self.videofeed.set_frame(frame)
 
 if __name__ == "__main__":
-    ip_addr = "127.0.0.1"
+    ip_addr = ""
     if len(sys.argv) == 2:
         ip_addr = sys.argv[1]
 
