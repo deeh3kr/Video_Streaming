@@ -2,6 +2,7 @@ import cv2
 import numpy
 import io
 from PIL import Image
+import random
 
 class VideoFeed:
 
